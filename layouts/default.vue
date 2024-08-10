@@ -130,7 +130,7 @@ const colorMode = useColorMode()
     </aside>
     <div class="flex flex-col sm:gap-4 sm:py-4 sm:pl-14">
         <header
-            class="sticky top-0 z-30 flex h-14 items-center gap-4 border-b bg-background px-4 py-2 shadow-md sm:h-auto sm:border-0 sm:px-6">
+            class="sticky top-0 z-30 flex h-14 items-center gap-4 border-b bg-background px-4 py-2 shadow-lg sm:h-auto sm:border-0 sm:px-6">
             <Sheet>
                 <SheetTrigger as-child>
                     <Button size="icon" variant="outline" class="sm:hidden">
